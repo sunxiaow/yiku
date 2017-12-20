@@ -186,7 +186,7 @@
         android:background="#e8e7e7"
         />
     <LinearLayout
-        android:id="@+id/rg"
+        android:id="@+id/rg2"
         android:background="@android:color/white"
         android:orientation="horizontal"
         android:layout_width="match_parent"
@@ -398,8 +398,8 @@
         <View
             android:layout_width="370dp"
             android:layout_height="1dp"
-            android:layout_alignParentRight="true"
             android:background="#c3c0c0"
+            android:layout_alignParentRight="true"
             />
     </RelativeLayout>
     <RelativeLayout
